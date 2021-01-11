@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Megan
+ * @author Megan2222
  */
 public class SammysMotto {
 
